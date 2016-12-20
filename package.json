@@ -1,6 +1,6 @@
 {
   "name": "poloniex-morefeatures.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Poloniex API client With More Features",
   "author": "Chris Forrester <psionic81@gmail.com>",
   "license": "MIT",
